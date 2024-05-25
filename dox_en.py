@@ -9,7 +9,6 @@ import os
 import time
 import subprocess
 import random
-import pyshorteners
 import requests
 import pyqrcode
 import png
